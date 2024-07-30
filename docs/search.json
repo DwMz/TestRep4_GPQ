@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "QuWebTest1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 5\n\n[1] 6\n\n\nHalloh"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "formatiertests1.html",
+    "href": "formatiertests1.html",
+    "title": "Tests rund um Formatierung etc mit Quarto",
+    "section": "",
+    "text": "Das ist ein Text.\n\nHallo, ich bin DivDing01. Was genau ich bin, weiß ich auch nicht.\nbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla Blabla.\nhoho\n\nEs folgt eine Liste\n\nSchrank\nTisch\n\nEsstisch\nSchreibtisch\n\nRegal\n\nDas war die Liste.\n\nEs folgt eien Definition list\n\nDies scheint die Beschreibung zu sein.\nSie kann also mehrzeilig sein. Wobei diese Zeile ziemlich lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang ist.\nJa sowas.\n\n\n\nTabelle mit 3 zeilen und 4 Spalten\n\n\n\n\n\n\n\n\nCol1\nCol2\nCol3\nCol4\n\n\n\n\nSpalte 1 Zeile 1\nSpalte 2 Zeile 1\nwieder Zeile 1, aber Spalte 3\n\n\n\n\n\n\n\n\n\n\n\n\nSpalte 4, Zeile 3\n\n\n\n\nterm\n\nBeschreibung von term\n\nTomate\n\nEine Pflanze, die man essen kann. Die Tomate ist rot. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla zur Tomate.\n\nJohannisbeere\n\nsäuerliche Frucht, hat runde Beeren\n\n\n\n\n\n\n\n\nEin callout\n\n\n\nWas ist ein Collaout?\nAuch Fußnoten1 sind möglich, wie man hier sieht.\n\n\n\nx &lt;- 5\nprint(x+4) # This is a print command\n\n[1] 9\n\n\n\n\n\n\n\n\nCallout vom Type ‘tip’\n\n\n\nDas ist ja schön, so ein Callout.\nDarin auch lange lange lange lange lange lange lange lange lange lange lange lange lange lange lange lange lange lange lange lange lange lange Zeilen möglich.\nAus Listen:\n\nGemüse\n\nTomate\nGurke\n\nObst\n\nApfel\nPflaume\nKirsche\n\nPilze\n\nChampignons\n\nZwiebel\nBohnen\n\nKönnen hier auch Links rein?\nEdmond\nSehr schön.\n\n\n\n\n\n\n\n\n\n\nTyp ‘note’\n\n\n\nBla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla\n\n\n\n\n\n\n\n\nTyp ‘tip’\n\n\n\nBla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla\n\n\n\n\n\n\n\n\nTyp ‘important’\n\n\n\nDas ist für wichtiges, also bla bla bla bla bla bla .\n\n\n\n\n\n\n\n\nTyp ‘caution’\n\n\n\nObacht, aufpassen, damit man da nichts falsches macht. Also Achtung.\n\n\n\n\n\n\n\n\nTyp Warnung\n\n\n\nHier warne ich , also eine Warnung.\n\n\n\n\n\n\n\n\nTyp ‘note’, Test\n\n\n\nKann ich ein Callout in einem Callout machen? Versuche ich mal:\n\n\n\n\n\n\nTyp ‘note’ innerhalb von ‘note’\n\n\n\nAha, scheint zu klappen.\n\n\n\n\n\n\nTyp ‘warning’ in ‘note’ in ‘note’\n\n\n\nIch möchte davor warnen, es zu weit zu reiben.\n\n\nDas ist jetzt zwischen der innersten und der mittleren Callout-Box.\n\n\n\n\n\n\n\n\n\n\n\n\n\nType ‘note’ Appearance ‘default’\n\n\n\nbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla\n\n\n\n\n\n\n\n\nType ‘note’ Appearance ‘simple’\n\n\n\nj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asd\n\n\n\n\n\n\n\n\nType ‘note’ Appearance ‘minimal’\n\n\n\njk aökejf aöwekfjaw\ne fawkeawef wa"
+  },
+  {
+    "objectID": "formatiertests1.html#vergleich-der-callouts",
+    "href": "formatiertests1.html#vergleich-der-callouts",
+    "title": "Tests rund um Formatierung etc mit Quarto",
+    "section": "",
+    "text": "Typ ‘note’\n\n\n\nBla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla\n\n\n\n\n\n\n\n\nTyp ‘tip’\n\n\n\nBla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla\n\n\n\n\n\n\n\n\nTyp ‘important’\n\n\n\nDas ist für wichtiges, also bla bla bla bla bla bla .\n\n\n\n\n\n\n\n\nTyp ‘caution’\n\n\n\nObacht, aufpassen, damit man da nichts falsches macht. Also Achtung.\n\n\n\n\n\n\n\n\nTyp Warnung\n\n\n\nHier warne ich , also eine Warnung.\n\n\n\n\n\n\n\n\nTyp ‘note’, Test\n\n\n\nKann ich ein Callout in einem Callout machen? Versuche ich mal:\n\n\n\n\n\n\nTyp ‘note’ innerhalb von ‘note’\n\n\n\nAha, scheint zu klappen.\n\n\n\n\n\n\nTyp ‘warning’ in ‘note’ in ‘note’\n\n\n\nIch möchte davor warnen, es zu weit zu reiben.\n\n\nDas ist jetzt zwischen der innersten und der mittleren Callout-Box."
+  },
+  {
+    "objectID": "formatiertests1.html#weitere-tests-zu-callouts",
+    "href": "formatiertests1.html#weitere-tests-zu-callouts",
+    "title": "Tests rund um Formatierung etc mit Quarto",
+    "section": "",
+    "text": "Type ‘note’ Appearance ‘default’\n\n\n\nbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla\n\n\n\n\n\n\n\n\nType ‘note’ Appearance ‘simple’\n\n\n\nj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asdj ökjf asd\n\n\n\n\n\n\n\n\nType ‘note’ Appearance ‘minimal’\n\n\n\njk aökejf aöwekfjaw\ne fawkeawef wa"
+  },
+  {
+    "objectID": "formatiertests1.html#footnotes",
+    "href": "formatiertests1.html#footnotes",
+    "title": "Tests rund um Formatierung etc mit Quarto",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a footnote - dies ist eine Fußnote.↩︎"
+  }
+]
